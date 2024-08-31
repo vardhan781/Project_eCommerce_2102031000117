@@ -1,0 +1,6 @@
+Database Name: ecom_store
+
+Admin Login Details
+
+Username: admin@mail.com
+Password: Password@123
